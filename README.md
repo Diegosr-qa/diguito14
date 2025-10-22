@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @diguito14 - Diego Silva Rodrigues
+- 👋 Hi, I’m Diego Silva Rodrigues
 - 👀 I’m interested in learning about game.
 - 🌱 I’m currently learning, from the start, unity,C#, python... 
 - 📫 How to reach me diguito14@gmail.com, linkedin: https://www.linkedin.com/in/diego-silva-rodrigues/
